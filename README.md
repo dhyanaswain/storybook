@@ -24,4 +24,4 @@ You should now be able to run Storybook locally by running
 ### npm run storybook
 
 Here is a preview of the Storybook application:
-    ![Storybook](/hello-tsx-storybook/public/storybook.png)
+    ![Storybook](https://github.com/dhyanaswain/storybook/blob/main/public/storybook.png)
